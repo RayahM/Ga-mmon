@@ -1,4 +1,4 @@
-#Mon Nov 28 18:31:57 GMT 2016
+#Mon Nov 28 18:34:19 GMT 2016
 sixOneInitialMove=7
 fiveThreeInitialMove=39
 fiveOneInitialMoveAlt=43
@@ -21,7 +21,7 @@ twoOneSlotPlayInitialMove=9
 fiveOneInitialMove=42
 fourTwoInitialMove=37
 sixTwoInitialMove=38
-fitness=1.0
+fitness=0.84
 sixThreeInitialMove=99
 fourThreeInitialMoveSplit=73
 sixFourInitialMove=85
